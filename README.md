@@ -16,10 +16,10 @@ A RESTful API built with Flask and SQLAlchemy to manage travel destinations. Thi
 
 ## 📁 Project Structure
 
-travel-api/
-├── app.py                # Main Flask application
-├── travel.db             # SQLite database (auto-created)
-├── requirements.txt      # Python dependencies
+Travel-api<br>
+├── main.py               # Main Flask application<br> 
+├── travel.db             # SQLite database (auto-created)<br>
+├── requirements.txt      # Python dependencies <br>  
 └── README.md             # Project documentation
 
 ---
